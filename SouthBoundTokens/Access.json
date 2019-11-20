@@ -1,0 +1,10 @@
+{
+    "access_token": "eyJraWQiOiJrZXktaWQtMSIsImFsZyI6IlJTMjU2IiwidHlwIjoiSldUIn0.eyJqdGkiOiI5MDE4Y2U3Ni02YWM5LTRhNGQtYWIyMC0wZDcwODAyNTBhMjciLCJzY29wZSI6WyJtZHNwOmNvcmU6RGVmYXVsdEFnZW50Il0sImlzcyI6Imh0dHBzOi8vc291dGhnYXRlLmV1MS5taW5kc3BoZXJlLmlvL2FwaS9hZ2VudG1hbmFnZW1lbnQvIiwic3ViIjoiM2MwMTQ4MzRmNjViNDNmN2IyNThlYWZiMmI0YzMwMjAiLCJ6aWQiOiJhZ2VudGlhbSIsImF1ZCI6WyJzb3V0aGdhdGUiXSwiaWF0IjoxNTczNzQ5MjcwLCJleHAiOjE1NzM3NTI4NzAsInNjaGVtYXMiOlsidXJuOnNpZW1lbnM6bWluZHNwaGVyZTppYW06djEiXSwidGVuIjoiYWNhZGVteTIiLCJ0ZW5fY3R4IjoibWFpbi10ZW5hbnQiLCJjYXQiOiJhZ2VudC10b2tlbjp2MSIsImdyYW50X3R5cGUiOiJjbGllbnRfY3JlZGVudGlhbHMifQ.oLaHZBT-XR-Al85uhagxn-Kla-JYc1fOSBtPPLp4V9fXaW3y1ElsHwjI4-m01AjI9ZuL7rOsg4gYQgrPwEigsEfufhDhfudsOkH-1vwGLZQuja6mAqAv5134P6D-OlsePs7bcbCBbP9C_7ugN-c3hjkECgopGzgeB2TaCzDWB7CNHFmcfg4Yqr0cRABtffMPjfji5sW71cVkoTH8L6hKSYlrde2LJJWZx63hv2Nno-YZachJbMH0Y1X06MdPAQwJyc69NjPYtSZzFRKUiTIjjnLbl4_mZvW5Ngqj09x8eHKuexSGOyHBBR6g1ArnS6A3k1AD9vw21sq3hL3KBZ4OHQ",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "scope": [
+        "mdsp:core:DefaultAgent"
+    ],
+    "jti": "9018ce76-6ac9-4a4d-ab20-0d7080250a27",
+    "authorization_access_expiration": 1573752871
+}
